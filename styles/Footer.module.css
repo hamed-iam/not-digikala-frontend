@@ -1,0 +1,29 @@
+.footer {
+  background-color: rgb(47, 73, 185);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 3px;
+}
+.name {
+  display: flex;
+  align-items: center;
+  color: white;
+  padding-left: 1rem;
+}
+.links {
+  display: flex;
+}
+.links li {
+  list-style: none;
+  padding: 0 1rem 0 1rem;
+  font-size: 1.5rem;
+}
+.instagram {
+  color: white;
+}
+.github {
+  color: white;
+}
+.linkedin {
+  color: white;
+}
